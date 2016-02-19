@@ -283,6 +283,7 @@ var uireset=function(){
         //divplayer.style.left="0px";
         divplayer.classList.remove("m_player_folded");
         flag=true;
+        flag1=true;
       }
       
     }
